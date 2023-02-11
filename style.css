@@ -1,0 +1,182 @@
+hr{
+  border-width:30px;
+}
+
+h1{
+  font-size:40px;
+  color:#ff3131;
+}
+
+h123{
+  font-size:25px;
+  color:#ffffff;
+}
+
+h2{
+  font-size:25px;
+  text-align:center;
+  color:#ffffff;
+}
+
+body{
+  background-image: linear-gradient(black,red);
+  font-family:Monospace;
+  height:1500px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: darkred;
+  border: 1px solid white;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #cf0022;
+}
+
+h3{
+  font-size:px;
+  margin-left: 25px;
+   text-align: left;
+  font-size: 20px;
+  font-family: monospace;
+  color:#ffffff;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.mysection1 {
+  background-image:linear-gradient(white,red);
+  height:300px;
+  width:611px;
+  text-align:center;
+}
+
+.mysection2{
+  background-image:linear-gradient(white,red);
+  height:300px;
+  width:611px;;
+  text-align:center;
+}
+
+.mysection3{
+  background-image:linear-gradient(white,red);
+  height:300px;
+  width:612px;
+  text-align:center;
+}
+
+table {
+  width: 100%
+}
+
+td{
+  width:33%;
+}
+
+strong{
+  color:#ff6868;
+}
+
+h4{
+  text-align:center;
+  font-size:60px;
+  font-family:monospace;
+  color:#ffffff;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+
+h5{
+  text-align:left;
+  font-size:60px;
+  font-family: monospace;
+  color:#ffffff;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+
+h6{
+  text-align: left;
+  font-size: 20px;
+  font-family: monospace;
+  color:#ffffff;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+
+h7{
+  text-align: left;
+  font-size: 30px;
+  font-family: monospace;
+  color:#ffffff;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+
+.mysection4{
+  background-image: url("band.jpg");
+  height:700px;
+  width:300px;
+  float: right;
+  border: 7px solid white;
+}
+
+.mysection21{
+  background-image: url("selfie.png");
+  height:1001px;
+  width:751px;
+  float: left;
+}
+
+.mysection12{
+  background-image: url("image.png");
+  height:700px;
+  width:1000px;
+  float: right;
+}
+
+.mysection123{
+  background-image: url("bandGroupPic.jpg");
+  height:700px;
+  width:1400px;
+  float: right;
+  border: 7px solid white;
+}
+
+.mysection5{
+  background-image:linear-gradient(white,red);
+  height:20px;
+  width:1290px;
+  text-align:center;
+}
+
+#img{
+  width:500px;
+  
+}
+
+#imgg{
+  height:150px;
+  width:200px;
+} 
+
+.body {
+max-width: 100%;
+height: auto;
+}
